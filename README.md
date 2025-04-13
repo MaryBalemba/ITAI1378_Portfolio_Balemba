@@ -1,2 +1,3 @@
 # ITAI1378_Portfolio_Balemba
-Portfolio for ITAI1378 - Introduction to Artificial Intelligence
+Portfolio for ITAI1378 - A comprehensive portfolio that showcases your learning journey throughout course Computer Vision.
+
